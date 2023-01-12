@@ -1,4 +1,4 @@
-icon: ![もっちり太郎](https://twitter.com/sugardegu2)
+icon: [もっちり太郎](https://twitter.com/sugardegu2)
 
-Using
-ArchLinux x86-64
+Using operating system.
+- ArchLinux x86-64
