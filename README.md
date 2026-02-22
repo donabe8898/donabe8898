@@ -9,7 +9,8 @@
 ###### Laptop
 - ArchLinux x86_64
 
-[![donabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=donabe8898&theme=vue-dark&show_icons=true)](https://github.com/donabe8898/github-readme-stats)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=donabe8898)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donabe8898&theme=vue-dark&hide=html)
 
